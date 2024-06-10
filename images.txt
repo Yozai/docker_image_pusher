@@ -1,5 +1,7 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
---platform=linux/amd64 redis:7.0.15-alpine3.20
---platform=linux/arm/v7 redis:7.0.15-alpine3.20
+haroldli/xiaoya-tvbox:latest
+whyour/qinglong:latest
+neosmemo/memos:stable
+6053537/portainer-ce:latest
+a76yyyy/qiandao:latest
+soulteary/flare:latest
+xhofe/alist:latest
