@@ -1,8 +1,10 @@
 haroldli/xiaoya-tvbox:latest
 whyour/qinglong:latest
 neosmemo/memos:stable
+neosmemo/memos:latest
 6053537/portainer-ce:latest
 a76yyyy/qiandao:latest
 soulteary/flare:latest
 xhofe/alist:latest
 portainer/portainer-ce:2.19.4
+moelin/1panel
