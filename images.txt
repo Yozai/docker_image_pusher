@@ -5,3 +5,4 @@ neosmemo/memos:stable
 a76yyyy/qiandao:latest
 soulteary/flare:latest
 xhofe/alist:latest
+portainer/portainer-ce:2.19.4
