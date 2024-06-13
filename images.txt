@@ -8,4 +8,3 @@ soulteary/flare:latest
 xhofe/alist:latest
 portainer/portainer-ce:2.19.4
 moelin/1panel
-jjm2473/xteve_guide2go:latest
