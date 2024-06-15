@@ -9,3 +9,4 @@ xhofe/alist:latest
 portainer/portainer-ce:2.19.4
 moelin/1panel
 goharbor/prepare:v2.11.0
+cloudflare/cloudflared
