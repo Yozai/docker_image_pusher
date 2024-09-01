@@ -12,4 +12,5 @@ goharbor/prepare:v2.11.0
 yarmak/warp-proxy
 vvbbnn00/warp-clash-api
 syncthing/syncthing
+johngong/rime-dict
 
